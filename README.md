@@ -1,4 +1,3 @@
-# GameSoftUniDrunkenWarrior
--OOP TeamProject "Aitarus"
---Basic Game 2048
+# Game2048
+-Advanced c# TeamProject "Aitarus"
 --WindowsForms
